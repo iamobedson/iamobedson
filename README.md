@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @iamobedson1 you can call me OBED 🌐🏆💞️.
 
- 😄 A Nurse by profession and a **Data Analytics Graduate from ALX Africa** <br/>
+ 😄 **Data Analyst**, a product of ALX Africa and a Registrerd Nurse <br/>
  ⚡ I **Analyse**, **Clean** and **Transform** raw **Data** into useful **Dashboards** and provide useful **Insights** <br/> 
  👀 My **dashboards and insights help individuals and organizations** make **data driven decisions** <br/>
  🌱 Self-Taught  **Flutter/Dart** application developer & still learning <br/>
