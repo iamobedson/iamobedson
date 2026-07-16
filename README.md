@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @iamobedson1 you can call me OBED 🌐🏆💞️.
+## 👋 Hi, I’m @iamobedson, you can call me OBED 🌐🏆💞️.
 
  😄 **Data Analyst**, a product of ALX Africa and a Registered Nurse <br/>
  ⚡ I **Analyse**, **Clean** and **Transform** raw **Data** into useful **Dashboards** and provide useful **Insights** <br/> 
